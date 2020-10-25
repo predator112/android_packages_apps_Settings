@@ -26,7 +26,7 @@ public class AboutDeviceNamePreferenceController extends BasePreferenceControlle
 
     private static final String TAG = "AboutDeviceNameCtrl";
 
-    private static final String KEY_DEVICE_NAME_PROP = "ro.du.device";
+    private static final String KEY_DEVICE_NAME_PROP = "ro.lineage.device";
 
     public AboutDeviceNamePreferenceController(Context context, String key) {
         super(context, key);
