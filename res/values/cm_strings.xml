@@ -250,4 +250,6 @@
     <string name="smart_charging_footer">Smart Charging allows you to set maximum charging level to extend the lifespan of your battery</string>
 
     <string name="about_device_name">Device</string>
+    <string name="maintainer">Maintainer</string>
+    <string name="maintainer_name">Mohammad Iqbal</string>
 </resources>
